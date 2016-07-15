@@ -44,8 +44,9 @@ title: 我要自己建立第二个post
 
 <hr>
 
-![大眼生贺](/image/IMG_7059.JPG)
+![大眼生贺](/2016_summer_web_design/image/IMG_7059.JPG)
 
+{{site.url}}
 
 
 
